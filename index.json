@@ -1,0 +1,6 @@
+{
+    "schemes": {
+        "windows": ["auto","low", "normal", "super"],
+        "linux":  ["auto","low", "normal", "super"]
+    }
+}
